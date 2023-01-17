@@ -1,7 +1,7 @@
 # DiscordBot
-Discord Bot using discord.py
+Discord Bot using discord.py that has a music player, level system, magic eightball, moderation commands and more 
 
-#Dependencies
+## Dependencies
 
 add ffmpeg to path - https://www.ffmpeg.org/download.html
 pip install discord.py
